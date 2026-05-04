@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimro\\Desktop\\H.W 1 NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\AboutForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp2\\AboutForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\AboutForms.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp2\\AboutForms.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\WinFormsApp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp2\\WinFormsApp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\ManuForms.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsApp2\\ManuForms.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsApp2.csproj",
+              "DocumentMoniker": "C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\WinFormsApp2.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp2\\WinFormsApp2.csproj",
+              "ToolTip": "C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\WinFormsApp2.csproj",
+              "RelativeToolTip": "WinFormsApp2\\WinFormsApp2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-11T07:13:31.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutForms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\AboutForms.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\AboutForms.Designer.cs",
+              "ToolTip": "C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\AboutForms.Designer.cs",
+              "RelativeToolTip": "WinFormsApp2\\AboutForms.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T07:13:13.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutForms.cs",
+              "DocumentMoniker": "C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\AboutForms.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\AboutForms.cs",
+              "ToolTip": "C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\AboutForms.cs",
+              "RelativeToolTip": "WinFormsApp2\\AboutForms.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T07:13:12.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManuForms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\ManuForms.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\ManuForms.Designer.cs",
+              "ToolTip": "C:\\Users\\nimro\\Desktop\\H.W 1 NET\\WinFormsApp2\\ManuForms.Designer.cs",
+              "RelativeToolTip": "WinFormsApp2\\ManuForms.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:50:53.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
