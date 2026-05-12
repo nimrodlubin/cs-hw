@@ -22,7 +22,25 @@ namespace Bank2
     }
     class PassengerPlane : Aricraft
     {
-        int passengerCount { get; set; }
+        int passengerCount;
+        int PassengerCount 
+        { get
+            {
+                return passengerCount;
+            }
+            set
+            {
+                if (value >10 && value<400)
+                {
+                    passengerCount = value;
+                }
+                else
+                {
+                    throw new Exception ("");
+                }
+            } 
+        }
+
         public PassengerPlane(string flightNumber, int altitude, int passengerCount)
         : base(flightNumber, altitude)
         {
