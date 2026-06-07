@@ -11,7 +11,7 @@ namespace H.W_11._5
         public string Title { get; set; }
         public abstract void Play();
     }
-    class Movie : MediaItem, IDownloadable, IComparable<Movie>
+    class Movie : MediaItem, IDownloadable, IComparable
     {
         public Movie(int durtcion, string title)
         {
@@ -26,13 +26,22 @@ namespace H.W_11._5
         {
             Console.WriteLine("Playing movie");
         }
-        public int CompareTo (Movie other)
+        public int CompareTo (Object other)
         {
-            if (other == null)
+            Movie m = (Movie)other;
+
+            if (this.Durtcion== m.Durtcion)
+            {
+                return 0 ;
+            }
+            else if (this.Durtcion < m.Durtcion)
+            {
+                return -1;
+            }
+            else
             {
                 return 1;
             }
-                 return this.Durtcion.CompareTo(other.Durtcion);
 
         }
     }
